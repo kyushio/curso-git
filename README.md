@@ -2,8 +2,9 @@
 
 > Status do projeto: Em desenvolvimento
 
-Para roda resse projeto na sua máquina, por favor digite:
+Para acompanhar esse projeto na sua máquina, por favor instale:
 
 ``
-npm install react
+O git para windows em caso de utilizadores do windows.
+
 ``
