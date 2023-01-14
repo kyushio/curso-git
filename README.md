@@ -1,12 +1,11 @@
-<h1> Sistema de Cadastro de Jogos</h1>
+<h1> Aprendendo a usar o Git e Git Hub com a #Alura</h1>
 
-> Status do projeto: Em desenvolvimento
+> Status do projeto: Em Finalizado
 
 Para acompanhar esse projeto na sua máquina, por favor instale:
 
 ```
-O git para windows em caso de utilizadores do windows.
-node app.js
+O git para o sistema operacional que estiver utilizando.
 
 ```
 Instalando o Git dica:
