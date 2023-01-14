@@ -13,3 +13,7 @@ node app.js
 Link para dica:
 https://www.alura.com.br/artigos/escrever-bom-readme
 :)
+
+
+Instalando o Git dica:
+https://cursos.alura.com.br/course/git-github-controle-de-versao/task/57007
