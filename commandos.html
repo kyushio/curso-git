@@ -14,7 +14,7 @@ git pull
 #Verificando se há alterações locais 
 git status
 
-#Adicionando mudanças para mandar ao repositorio
+#Adicionando todas as mudanças para mandar ao repositorio
 git add .
 git commit . -m "adicionei todos os arquivos modificados no commit"
 
@@ -23,3 +23,25 @@ git push
 
 #Pegando arquivos de commit especificos --source endereço e o .(ponto para todos os arquivos)
 git restore --source e934c7aa11e3c01694f0066e6024c35555e8d2fc .
+
+*****************************************************************
+#Criando nova branch
+git checkout -b desenvolvimento
+
+#voltando para branch especifica
+git switch main
+ou git switch desenvolvimento
+
+#mandando para git desenvolvimento
+git push origin desenvolvimento
+
+
+#Mandando do Desenvolvimento para a MAIN => Merge
+git switch main
+git merge desenvolvimento
+git push origin main
+
+#visualiza as branchs e mostra qual estou
+git branch
+
+

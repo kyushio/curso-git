@@ -33,3 +33,5 @@ Discas dos commandos de logs do Git:
 https://devhints.io/git-log-format
 
 ```
+
+https://guilhermeonrails.github.io/manual-do-git-e-github/
